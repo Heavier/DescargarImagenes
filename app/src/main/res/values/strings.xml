@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DescargarImagenes</string>
+
+    <string name="downTags">Descargando etiquetas...</string>
+    <string name="processOff">Proceso finalizado.</string>
+
+    <string name="downImage">Descargando imagen...</string>
+</resources>
